@@ -1,0 +1,25 @@
+Filas (grabaciones): 756  Columnas: 755
+Características de la voz: 752
+Valores vacíos: 0
+Pacientes: 252  Grabaciones por paciente: [3]
+Pacientes con Parkinson: 188  sanos: 64
+Grabaciones con Parkinson: 564  sanas: 192
+Un modelo que dijera siempre 'Parkinson' acertaría 74.6 % de los pacientes
+Pacientes por sexo (filas) y diagnóstico (columnas):
+class    0    1
+gender         
+0       41   81
+1       23  107
+Columnas constantes: 0  Columnas duplicadas: 0
+Desviación típica de las características: mínima 5.73e-21, máxima 5.70e+09
+Rango de valores: de -6.21e+10 a 7.43e+07
+Pares de características con |correlación| > 0.9: 1949
+Pares de características con |correlación| > 0.95: 1002
+Pares de características con |correlación| > 0.99: 366
+Características con alguna otra casi idéntica (|r| > 0.95): 351 de 752
+Variación dentro de un mismo paciente respecto a la total (mediana): 0.22
+Características por familia:
+TQWT                                          432
+Wavelet                                       160
+MFCC                                           84
+Otras (jitter, shimmer, HNR, formantes...)     76

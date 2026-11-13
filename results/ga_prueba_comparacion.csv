@@ -1,0 +1,5 @@
+,MCC,Exactitud equilibrada,F1,AUC,Nº características
+Algoritmo genético,0.718,0.895,0.906,0.96,88
+Todas (752),0.608,0.806,0.899,0.876,752
+Información mutua,0.593,0.827,0.868,0.868,88
+Selección al azar (media de 30),0.52,0.79,0.833,0.87,88
